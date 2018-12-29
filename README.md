@@ -1,6 +1,5 @@
 # oauth2-server
 
-[![npm Version][npm-image]][npm-url]
 [![npm Downloads][downloads-image]][downloads-url]
 [![Test Status][travis-image]][travis-url]
 [![MIT Licensed][license-image]][license-url]
