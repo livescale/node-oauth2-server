@@ -1,4 +1,12 @@
+
 # oauth2-server
+
+Original code is available [here](https://github.com/oauthjs/node-oauth2-server.git)
+```
+https://github.com/oauthjs/node-oauth2-server.git
+```
+
+
 
 [![npm Downloads][downloads-image]][downloads-url]
 [![Test Status][travis-image]][travis-url]
